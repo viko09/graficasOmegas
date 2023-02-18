@@ -28,7 +28,7 @@ plt.grid(color='g', linestyle='dotted', linewidth=1)
 plt.legend()
 
 # Save as png
-# plt.savefig("figuraN.png")
+# plt.savefig("figuraM.png")
 
 # Show the plot
 plt.show()
